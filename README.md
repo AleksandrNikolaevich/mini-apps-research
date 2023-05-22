@@ -2,6 +2,7 @@
 
 ### Description
 Result of researching possibilites of React Native. This example shows how you can integrate MiniApps (RN) to Main application (RN).
+First, the mini-application is packaged into an archive, then the archive will be downloaded and rendered by the main application.
 
 ### Demo
 
