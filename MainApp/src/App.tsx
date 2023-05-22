@@ -46,11 +46,11 @@ const MiniAppScreen = () => {
         /**
          * example for clean bundle
          */
-        url: `https://github.com/AleksandrNikolaevich/shared/raw/main/miniapps/miniapp.${Platform.OS}.bundle`,
+        // url: `https://github.com/AleksandrNikolaevich/shared/raw/main/miniapps/miniapp.${Platform.OS}.bundle`,
         /**
          * example for bundle with resources such as images, videos, etc.
          */
-        // url: `https://github.com/AleksandrNikolaevich/shared/raw/main/miniapps/bundle.${Platform.OS}.zip`,
+        url: `https://github.com/AleksandrNikolaevich/shared/raw/main/miniapps/bundle.${Platform.OS}.zip`,
       }}
     />
   );
